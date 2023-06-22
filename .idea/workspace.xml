@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b59c893-9a55-4434-81d4-ab556147ca22" name="Changes" comment="" />
+    <list default="true" id="3b59c893-9a55-4434-81d4-ab556147ca22" name="Changes" comment="umas coisa ai">
+      <change afterPath="$PROJECT_DIR$/src/Planta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Semente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,14 +31,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "Z:/LPAP/workspace/AulasLogicaAplicada2D"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;Z:/LPAP/workspace/AulasLogicaAplicada2D&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -58,8 +68,17 @@
       <updated>1685372634115</updated>
       <workItem from="1685372635769" duration="505000" />
       <workItem from="1685373172190" duration="257000" />
-      <workItem from="1685373748363" duration="449000" />
+      <workItem from="1685373748363" duration="556000" />
+      <workItem from="1687444555986" duration="2683000" />
     </task>
+    <task id="LOCAL-00001" summary="umas coisa ai">
+      <created>1685374286593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685374286593</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="umas coisa ai" />
+    <option name="LAST_COMMIT_MESSAGE" value="umas coisa ai" />
   </component>
 </project>
